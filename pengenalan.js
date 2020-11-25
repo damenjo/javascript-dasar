@@ -1,1 +1,1 @@
-console.log('Perkenalan Awal');
+console.log('Latihan Awal Progressive Application Web');
